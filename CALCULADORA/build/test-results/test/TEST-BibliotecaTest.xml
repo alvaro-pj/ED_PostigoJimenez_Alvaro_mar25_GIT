@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BibliotecaTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-03-05T17:24:58" hostname="PC-ALVARO" time="0.017">
+<testsuite name="BibliotecaTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-03-05T17:42:38" hostname="PC-ALVARO" time="0.019">
   <properties/>
-  <testcase name="eliminarLibro()" classname="BibliotecaTest" time="0.013"/>
+  <testcase name="encuentraLibrosPorAutorNoExistente()" classname="BibliotecaTest" time="0.012"/>
+  <testcase name="encuentraLibrosPorAutorExistente()" classname="BibliotecaTest" time="0.001"/>
+  <testcase name="eliminarLibro()" classname="BibliotecaTest" time="0.001"/>
   <testcase name="agregarLibro()" classname="BibliotecaTest" time="0.001"/>
-  <testcase name="encuentraLibrosPorAutor()" classname="BibliotecaTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

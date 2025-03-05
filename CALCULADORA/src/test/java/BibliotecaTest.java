@@ -38,8 +38,14 @@ class BibliotecaTest {
     }
 
     @Test
-    void encuentraLibrosPorAutor() {
+    void encuentraLibrosPorAutorExistente() {
         List<Libro> resultado = biblioteca.encuentraLibrosPorAutor("George Orwell");
         assertTrue(resultado.size() > 0, "No se encuentra el libro");
+    }
+
+    @Test
+    void encuentraLibrosPorAutorNoExistente() {
+        List<Libro> resultado = biblioteca.encuentraLibrosPorAutor("Antonio Machado");
+        assertTrue(resultado == null, "No se encuentra el libro");
     }
 }
