@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CALCULADORA.iml" filepath="$PROJECT_DIR$/CALCULADORA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CALCULADORA.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CALCULADORA.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CALCULADORA.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CALCULADORA.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ED_PostigoJimenez_Alvaro_mar25_GIT.iml" filepath="$PROJECT_DIR$/.idea/ED_PostigoJimenez_Alvaro_mar25_GIT.iml" />
+    </modules>
+  </component>
+</project>
